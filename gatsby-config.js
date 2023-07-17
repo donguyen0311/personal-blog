@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `donguyen.dev`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Do Nguyen`,
+      summary: `who lives and works in Ho Chi Minh City building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A personal blog is written by donguyen`,
+    siteUrl: `https://donguyen.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `donguyen0311`,
     },
   },
   plugins: [
